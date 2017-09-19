@@ -83,6 +83,7 @@
     <None Include="Intrusion_Alert.ino">
       <FileType>CppCode</FileType>
     </None>
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Listener.h" />

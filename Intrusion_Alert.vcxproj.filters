@@ -16,6 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Intrusion_Alert.ino" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Listener.h">
